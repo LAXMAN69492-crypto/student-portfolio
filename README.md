@@ -18,3 +18,9 @@ I am interested in software development and DevOps.
 ## Portfolio
 
 This portfolio contains my academic and technical projects.
+## Skills
+
+- Python
+- C Programming
+- Git and GitHub
+- Computer Networks
