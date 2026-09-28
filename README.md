@@ -1,4 +1,3 @@
-# About Me - Laxman
+# Welcome to Laxman's Portfolio
 
-I am Laxman, a student learning programming and version control.
-I am interested in software development and DevOps.
+This portfolio contains my academic and technical projects.
