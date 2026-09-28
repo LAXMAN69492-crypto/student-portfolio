@@ -1,8 +1,8 @@
-\# Student Portfolio
+\# About Me - Laxman
 
 
 
-This project showcases my technical skills and programming projects.
+I am Laxman, a student learning programming and version control.
 
-It is created to practice Git and GitHub version control.
+I am interested in software development and DevOps.
 
